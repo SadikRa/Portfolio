@@ -32,7 +32,7 @@ const Navbar = () => {
         <a href="#Projects">Projects</a>
       </li>
       <li>
-        <a href="https://drive.google.com/file/d/1pEsRqqxYhmqNMFtikJiqh0l6PbkeU5YP/view?usp=sharing">
+        <a href="https://drive.google.com/file/d/1rdVEQ8hhTBO-ilutDYLVDMLknMFHVdSn/view?usp=sharing">
           Resume
         </a>
       </li>
